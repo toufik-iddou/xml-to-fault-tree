@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rectangle label ="main conponent">
+    <and>
+        <circle label ="2nd 22conponent">
+
+        </circle>
+        <rectangle label ="3rd conponent">
+
+        </rectangle>
+    </and>
+</rectangle>
